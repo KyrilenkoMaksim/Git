@@ -1,3 +1,3 @@
 # Git
-My first repository
+My first repository;
 Hello, Crimea!
